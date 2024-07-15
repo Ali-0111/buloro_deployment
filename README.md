@@ -6,7 +6,7 @@ host_ip: 10000
 ```
 
 # Bpay project
-+ 1: BpaySubscriber
++ BpaySubscriber
 PORT:
 ```
 3000
@@ -14,21 +14,21 @@ PORT:
 ```
 
 
-+ 1: BpayMerchant
++ BpayMerchant
 PORT:
 ```
 3000
 
 ```
 
-+ 1: BpayAgent
++ BpayAgent
 PORT:
 ```
 3000
 
 ```
 
-+ 1: BpaySuperAgent
++ BpaySuperAgent
 PORT:
 ```
 3000
@@ -36,14 +36,14 @@ PORT:
 ```
 
 
-+ 1: BpayDistributor
++ BpayDistributor
 PORT:
 ```
 3000
 
 ```
 
-+ 1: BpayAdmin
++ BpayAdmin
 PORT:
 ```
 3000
